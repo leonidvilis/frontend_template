@@ -1,0 +1,48 @@
+{
+  "name": "Gulp+Stylus+Pug template",
+  "version": "1.0.0",
+  "description": "Template for page making",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lvilisov@bitbucket.org/lvilisov/landing41017.git"
+  },
+  "author": "lvilisov",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/lvilisov/landing41017#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^4.7.2",
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "bourbon": "^5.0.0",
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-filter": "^5.1.0",
+    "gulp-header": "^2.0.5",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-pngquant": "^1.0.12",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.3",
+    "gulp-replace": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "imagemin-pngquant": "^5.1.0",
+    "masonry": "0.0.2",
+    "rimraf": "^2.6.2"
+  }
+}
